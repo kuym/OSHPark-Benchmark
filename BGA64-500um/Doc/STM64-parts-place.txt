@@ -1,0 +1,32 @@
+Partlist
+
+Exported from STM64.brd at 04Mar16 12:30
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                            Package                          Library  Position (mm)         Orientation
+
+C1                                        0402-MIN                         Outbreak (8.375 37.775)        R180
+C2                                        0402-MIN                         Outbreak (6.625 37.775)        R0
+C3                                        0402-MIN                         Outbreak (8.75 42)             R0
+C4                                        0402-MIN                         Outbreak (6.75 42)             R180
+C5                                        0402-MIN                         Outbreak (7.5 29.75)           MR0
+C6                                        0402-MIN                         Outbreak (7.5 27.75)           MR0
+C7                                        0402-MIN                         Outbreak (5 31.75)             MR270
+C8                                        0402-MIN                         Outbreak (9.75 31.25)          MR0
+IC1      ST-STM32L1XX-ARM-CORTEX-M3-64PIN BGA64-5X5MM-0.5MM                Outbreak (7.5 29)              R270
+J1       JUMPER-0603-MIN                  0603-MIN-JUMPER                  Outbreak (7.75 31.25)          MR180
+J2       JUMPER-0603-MIN                  0603-MIN-JUMPER                  Outbreak (5.5 29.75)           MR0
+K1       HEADER-1X16-NO-SILK              HEADER-1X16-NO-SILK              Outbreak (13.97 20.32)         R90
+K2       HEADER-1X16-NO-SILK              HEADER-1X16-NO-SILK              Outbreak (1.27 20.32)          R90
+K3       HEADER-1X08-NO-SILK              HEADER-1X08-NO-SILK              Outbreak (1.27 50.8)           R270
+K4       HEADER-1X08-NO-SILK              HEADER-1X08-NO-SILK              Outbreak (13.97 50.8)          R270
+K5       HEADER-ARM-JTAG-2X5-1.27MM       HEADER-SMT-1.27MM-5X2-JTAG       Outbreak (7.62 3.88)           R270
+K6       HEADER-1X02-0.1IN-NO-SILK        HEADER-1X02-NO-SILK              Outbreak (7.62 11.43)          R0
+K7       HEADER-1X02-0.1IN-NO-SILK        HEADER-1X02-NO-SILK              Outbreak (7.62 13.97)          R180
+K8       HEADER-1X01-NO-SILK              HEADER-1X01-NO-SILK              Outbreak (6.35 59.69)          R0
+K9       HEADER-1X01-NO-SILK              HEADER-1X01-NO-SILK              Outbreak (8.89 59.69)          R0
+X1       CRYSTAL-4-PIN-NDK-NX3225GA-MIN   CRYSTAL-NDK-NX3225GA-3X2.5MM-MIN Outbreak (7.5 35.25)           R90
+X2       CRYSTAL-1206                     1206-MIN                         Outbreak (7.75 40.25)          R180

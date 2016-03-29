@@ -1,0 +1,32 @@
+Partlist
+
+Exported from STM64.sch at 04Mar16 12:30
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                            Device                           Package                          Library  Sheet
+
+C1                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C2                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C3                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C4                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C5                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C6                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C7                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+C8                                        CAP-0402-MIN                     0402-MIN                         Outbreak 1
+IC1      ST-STM32L1XX-ARM-CORTEX-M3-64PIN ST-STM32L1XX-ARM-CORTEX-M3-64PIN BGA64-5X5MM-0.5MM                Outbreak 1
+J1       JUMPER-0603-MIN                  JUMPER-0603-MIN                  0603-MIN-JUMPER                  Outbreak 1
+J2       JUMPER-0603-MIN                  JUMPER-0603-MIN                  0603-MIN-JUMPER                  Outbreak 1
+K1       HEADER-1X16-NO-SILK              HEADER-1X16-NO-SILK              HEADER-1X16-NO-SILK              Outbreak 1
+K2       HEADER-1X16-NO-SILK              HEADER-1X16-NO-SILK              HEADER-1X16-NO-SILK              Outbreak 1
+K3       HEADER-1X08-NO-SILK              HEADER-1X08-NO-SILK              HEADER-1X08-NO-SILK              Outbreak 1
+K4       HEADER-1X08-NO-SILK              HEADER-1X08-NO-SILK              HEADER-1X08-NO-SILK              Outbreak 1
+K5       HEADER-ARM-JTAG-2X5-1.27MM       HEADER-ARM-JTAG-2X5-1.27MM       HEADER-SMT-1.27MM-5X2-JTAG       Outbreak 1
+K6       HEADER-1X02-0.1IN-NO-SILK        HEADER-1X02-0.1IN-NO-SILK        HEADER-1X02-NO-SILK              Outbreak 1
+K7       HEADER-1X02-0.1IN-NO-SILK        HEADER-1X02-0.1IN-NO-SILK        HEADER-1X02-NO-SILK              Outbreak 1
+K8       HEADER-1X01-NO-SILK              HEADER-1X01-NO-SILK              HEADER-1X01-NO-SILK              Outbreak 1
+K9       HEADER-1X01-NO-SILK              HEADER-1X01-NO-SILK              HEADER-1X01-NO-SILK              Outbreak 1
+X1       CRYSTAL-4-PIN-NDK-NX3225GA-MIN   CRYSTAL-4-PIN-NDK-NX3225GA-MIN   CRYSTAL-NDK-NX3225GA-3X2.5MM-MIN Outbreak 1
+X2       CRYSTAL-1206                     CRYSTAL-1206                     1206-MIN                         Outbreak 1
